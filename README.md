@@ -11,6 +11,8 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 - 💬 Android Development
 
 **For Any Kind Of Inquiries Contact Me From The Addresses Below**
+⚡
+⚡
 **My Contacts:**
 - [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
 - [Mail](mailto:me@enesgunumdogdu.com.tr)
