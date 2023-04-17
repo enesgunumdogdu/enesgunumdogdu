@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
+My name is Enes,
 
-<!--
-**enesgunumdogdu/enesgunumdogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineering student at Erciyes University. I'm interested in algorithms & artificial intelligence since I started the college. I believe learning is a never-ending process and I have a passion to learn. Now trying to get some experience about android development, machine learning, deep learning and artificial intelligence technologies. My aim is to specialize more in my field and gain more experience in the following areas.
 
-Here are some ideas to get you started:
+- 🔭 Python ,
+- 🌱 Java,
+- 👯 Machine Learning,
+- 📫 Artificial Intelligence(AI),
+- ⚡ Deep Learning
+- 💬 Android Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**For Any Kind Of Inquiries Contact Me From The Addresses Below**
+**My Contacts:**
+- [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
+- [Mail](mailto:me@enesgunumdogdu.com.tr)
+- [Web](https://www.enesgunumdogdu.com.tr)
