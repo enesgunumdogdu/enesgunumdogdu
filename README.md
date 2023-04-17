@@ -16,5 +16,5 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 
 ****My Contacts:****
 - [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
-- [Mail](mailto:me@enesgunumdogdu.com.tr)
+- [E-Mail](mailto:me@enesgunumdogdu.com.tr)
 - [Web](https://www.enesgunumdogdu.com.tr)
