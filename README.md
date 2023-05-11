@@ -5,10 +5,10 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 
 - 🔭 Python ,
 - 🌱 Java,
-- 🗝 Kotlin
+- 🗝 Kotlin,
 - 👯 Machine Learning,
 - 📫 Artificial Intelligence(AI),
-- ⚡ Deep Learning
+- ⚡ Deep Learning,
 - 💬 Android Development
 
 **For Any Kind Of Inquiries Contact Me From The Addresses Below**
