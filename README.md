@@ -7,7 +7,7 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 - 🌱 Java,
 - 🗝 Kotlin,
 - 👯 Machine Learning,
-- 📫 Artificial Intelligence(AI),
+- 📫 Artificial Intelligence,
 - ⚡ Deep Learning,
 - 💬 Android Development
 
