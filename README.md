@@ -6,8 +6,7 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 - 🔭 Python ,
 - 🌱 Java & Kotlin,
 - 🗝  Firebase, SQLite,
-- 👯 Machine Learning,
-- ⚡ Deep Learning,
+- ⚡ Machine Learning, Deep Learning,
 - 💬 Android Development
 
 **For Any Kind Of Inquiries Contact Me From The Addresses Below**
@@ -16,5 +15,5 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 
 ****My Contacts:****
 - [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
-- [E-Mail](mailto:me@enesgunumdogdu.com.tr)
+- [E-Mail](mailto:enesgunumdogdu0@gmail.com)
 - [Web](https://www.enesgunumdogdu.com.tr)
