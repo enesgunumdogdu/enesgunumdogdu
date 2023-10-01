@@ -5,7 +5,8 @@ I am a computer engineering student at Erciyes University. I'm interested in alg
 
 - 🔭 Python ,
 - 🌱 Java & Kotlin,
-- 🗝  Firebase, SQLite,
+- 🗝  ASP .NET,
+- 📊 Firebase, SQLite,
 - ⚡ Machine Learning, Deep Learning,
 - 💬 Android Development
 
