@@ -5,7 +5,6 @@ I am a senior computer engineering student at Erciyes University. I'm interested
 
 
 **For any kind of inquiries please don't hesitate to contact me from the addresses below**
-
 ****How to Reach Me:****
 - [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
 - [E-Mail](mailto:enesgunumdogdu0@gmail.com)
