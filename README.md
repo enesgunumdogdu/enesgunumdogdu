@@ -1,12 +1,31 @@
-<img src="https://media.giphy.com/media/geYwtodB9AiI0/giphy.gif?cid=790b7611lhb5uxn2vtq2u83tf14yi9zxtplsmw9xdhrro8pc&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-Hi there 👋
+# Hey, I'm Enes 👋🏾
 
-I am a software developer who graduated from the Computer Engineering department at Erciyes University. I have been interested in algorithms and artificial intelligence since the beginning of my college years. I believe that learning is a lifelong journey, and I am passionate about continuously improving myself. Currently, I am seeking experience in artificial intelligence and backend technologies. My goal is to specialize further in my field and gain deeper experience in these areas.
+Software developer with a Computer Engineering degree from Erciyes University. Interested in algorithms, AI, and building things people actually use. Currently focused on iOS development, AI, and backend technologies.
 
+---
 
-**For any kind of inquiries please don't hesitate to contact me from the addresses below**
+## 📱 My Apps
 
-****How to Reach Me:****
-- [Linkedin](https://www.linkedin.com/in/enesgunumdogdu/)
-- [E-Mail](mailto:enesgunumdogdu0@gmail.com)
+### [Cartoon Weather — Fun Forecast](https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541)
+
+> A weather app that turns your daily forecast into a fun experience with hand-crafted animated characters that react to real weather conditions.
+
+| Feature | Detail |
+|---------|--------|
+| Characters | 6 animated themes with unique personalities |
+| Forecasts | Hourly & 7-day with detailed weather data |
+| Widgets | Home Screen & StandBy support |
+| Languages | 13 languages |
+| Design | Dark mode optimized |
+
+<a href="https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
+</a>
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/enesgunumdogdu/)
+- [Email](mailto:enesgunumdogdu0@gmail.com)
 - [Web](https://www.enesgunumdogdu.com.tr)
