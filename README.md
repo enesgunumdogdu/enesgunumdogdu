@@ -15,8 +15,7 @@ Software developer with a Computer Engineering degree from Erciyes University. I
 | Characters | 6 animated themes with unique personalities |
 | Forecasts | Hourly & 7-day with detailed weather data |
 | Widgets | Home Screen & StandBy support |
-| Languages | 13 languages |
-| Design | Dark mode optimized |
+| Languages | 20 languages supported |
 
 <a href="https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541">
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
