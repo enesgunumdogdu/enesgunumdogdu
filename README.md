@@ -4,20 +4,27 @@ Software developer with a Computer Engineering degree from Erciyes University. I
 
 ---
 
-## 📱 My Apps
+## 📱 My iOS Apps
 
-### [Cartoon Weather — Fun Forecast](https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541)
+### [Cartoon Weather — Cute Forecast](https://apps.apple.com/us/app/cartoon-weather-cute-forecast/id6757344541)
 
 > A weather app that turns your daily forecast into a fun experience with hand-crafted animated characters that react to real weather conditions.
 
-| Feature | Detail |
-|---------|--------|
-| Characters | 6 animated themes with unique personalities |
-| Forecasts | Hourly & 7-day with detailed weather data |
-| Widgets | Home Screen & StandBy support |
-| Languages | 20 languages supported |
+![Cartoon Weather Preview](assets/cartoon_weather_preview.gif)
 
-<a href="https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541">
+<a href="https://apps.apple.com/us/app/cartoon-weather-cute-forecast/id6757344541">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
+</a>
+
+---
+
+### [Seasons — Solstice Tracker](https://apps.apple.com/us/app/seasons-solstice-tracker/id6758998537)
+
+> Track where you stand in the year — season progress, solstice & equinox countdowns, moon phases, and sunrise/sunset times with beautiful animated themes.
+
+![Seasons Preview](assets/seasons_preview.gif)
+
+<a href="https://apps.apple.com/us/app/seasons-solstice-tracker/id6758998537">
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
 </a>
 
