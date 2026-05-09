@@ -31,7 +31,7 @@ Software developer with a Computer Engineering degree from Erciyes University. I
     <td align="center" colspan="2">
       <h3><a href="https://github.com/enesgunumdogdu/Magnetify">Magnetify — Window Manager for macOS</a></h3>
       <p><em>A powerful, lightweight, open-source window manager for macOS. Snap, tile, and organize windows effortlessly.</em></p>
-      <img src="https://raw.githubusercontent.com/enesgunumdogdu/Magnetify/main/assets/screenshot-hero.png" alt="Magnetify Preview" width="720">
+      <img src="assets/magnetify_preview.gif" alt="Magnetify Preview" width="720">
       <br><br>
       <a href="https://github.com/enesgunumdogdu/Magnetify">
         <img src="https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="View on GitHub" height="40">
