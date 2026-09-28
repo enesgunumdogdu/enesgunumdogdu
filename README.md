@@ -9,20 +9,20 @@ Software developer with a Computer Engineering degree from Erciyes University. I
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3><a href="https://apps.apple.com/us/app/cartoon-weather-cute-forecast/id6757344541">Cartoon Weather — Cute Forecast</a></h3>
+      <h3><a href="https://apps.apple.com/us/app/cartoon-weather-live-forecast/id6757344541">Cartoon Weather — Cute Forecast</a></h3>
       <p><em>A weather app with hand-crafted animated characters that react to real weather conditions.</em></p>
-      <img src="assets/cartoon_weather_preview.gif" alt="Cartoon Weather Preview" height="420">
+      <a href="https://apps.apple.com/us/app/cartoon-weather-live-forecast/id6757344541"><img src="assets/cartoon_weather_preview.gif" alt="Cartoon Weather Preview" height="420"></a>
       <br><br>
-      <a href="https://apps.apple.com/us/app/cartoon-weather-cute-forecast/id6757344541">
+      <a href="https://apps.apple.com/us/app/cartoon-weather-live-forecast/id6757344541">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
       </a>
     </td>
     <td align="center" width="50%">
-      <h3><a href="https://apps.apple.com/us/app/seasons-solstice-tracker/id6758998537">Seasons — Solstice Tracker</a></h3>
+      <h3><a href="https://apps.apple.com/us/app/seasons-season-progress/id6758998537">Seasons — Solstice Tracker</a></h3>
       <p><em>Track season progress, solstice & equinox countdowns, moon phases, and sunrise/sunset times.</em></p>
-      <img src="assets/seasons_preview.gif" alt="Seasons Preview" height="420">
+      <a href="https://apps.apple.com/us/app/seasons-season-progress/id6758998537"><img src="assets/seasons_preview.gif" alt="Seasons Preview" height="420"></a>
       <br><br>
-      <a href="https://apps.apple.com/us/app/seasons-solstice-tracker/id6758998537">
+      <a href="https://apps.apple.com/us/app/seasons-season-progress/id6758998537">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
       </a>
     </td>
@@ -31,7 +31,7 @@ Software developer with a Computer Engineering degree from Erciyes University. I
     <td align="center" colspan="2">
       <h3><a href="https://github.com/enesgunumdogdu/Magnetify">Magnetify — Window Manager for macOS</a></h3>
       <p><em>A powerful, lightweight, open-source window manager for macOS. Snap, tile, and organize windows effortlessly.</em></p>
-      <img src="assets/magnetify_preview.gif" alt="Magnetify Preview" width="560">
+      <a href="https://github.com/enesgunumdogdu/Magnetify"><img src="assets/magnetify_preview.gif" alt="Magnetify Preview" width="560"></a>
       <br><br>
       <a href="https://github.com/enesgunumdogdu/Magnetify">
         <img src="https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="View on GitHub" height="40">
